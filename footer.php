@@ -1,9 +1,9 @@
 <footer class="main-footer">
         <div class="container">
-            <!--Widgets Section-->
+         
             <div class="widgets-section">              
                 <div class="row">
-                    <!--Footer Column-->
+                
                     <div class="footer-column col-xl-4 col-lg-4 col-md-6 col-sm-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
 
-                    <!--Footer Column-->
+               
                     <div class="footer-column col-xl-3 col-lg-3 col-md-5 col-sm-12 offset-1">
                         <div class="footer-widget links-widget">
                             <h2 class="widget-title">Main Links</h2>

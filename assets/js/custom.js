@@ -21,6 +21,28 @@ $('.banner-slider').slick({
     ]
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $('.banner-slider-sub').slick({
     slidesToShow:1,
     slidesToScroll: 1,
